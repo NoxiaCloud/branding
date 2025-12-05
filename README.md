@@ -4,11 +4,15 @@
 
 **Noxia** — the brand name is only "Noxia". Do not use variations, abbreviations, and always capitalize the "N".
 
+---
+
 ### Usage
 
 Always leave adequate space around Noxia assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All Noxia assets are protected by trademark and copyright.
 
-### Website Theme
+---
+
+### Theme
 
 This theme primarily applies to our websites.
 
