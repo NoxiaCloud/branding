@@ -1,5 +1,13 @@
 # Brand Guidelines
 
+### Naming
+
+**Noxia** — the brand name is only "Noxia". Do not use variations, abbreviations, and always capitalize the "N".
+
+### Usage
+
+Always leave adequate space around Noxia assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All Noxia assets are protected by trademark and copyright.
+
 ### Website Theme
 
 This theme primarily applies to our websites.
@@ -21,9 +29,15 @@ This theme primarily applies to our websites.
 
 ### Assets
 
-#### Icons
+#### Icons & Logos
 
 <table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/stylized.icon.png">Logo (Stylized)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/stylized.icon.png" width="150">
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/black.icon.png">Logo (Black)</a><br>
