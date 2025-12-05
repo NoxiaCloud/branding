@@ -38,37 +38,35 @@ This theme primarily applies to our websites.
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/stylized.icon.png">Logo (Stylized)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/stylized.icon.png" width="150">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/stylized.icon.png">Logo (Stylized)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/stylized.icon.png" width="150">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/black.icon.png">Logo (Black)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/black.icon.png" width="150">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png">Logo (Black)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png" width="150">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/small.black.icon.png">Logo (Black | Small)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/small.black.icon.png" width="150">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/small.black.icon.png">Logo (Black | Small)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/small.black.icon.png" width="150">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/white.icon.png">Logo (White)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/white.icon.png" width="150">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png">Logo (White)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png" width="150">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/icons/small.white.icon.png">Logo (White | Small)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/icons/small.white.icon.png" width="150">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/small.white.icon.png">Logo (White | Small)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/small.white.icon.png" width="150">
     </td>
   </tr>
 </table>
-
----
 
 #### Miscellaneous
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_banner.png">Discord Server Rules Banner</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_banner.png" width="400">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_server_rules_banner.png">Discord Server Rules Banner</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_server_rules_banner.png" width="400">
     </td>
   </tr>
 </table>
