@@ -65,8 +65,8 @@ This theme primarily applies to our websites.
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_server_rules_banner.png">Discord Server Rules Banner</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_server_rules_banner.png" width="400">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/discord_server_rules_banner.png">Discord Server Rules Banner</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/discord_server_rules_banner.png" width="400">
     </td>
   </tr>
 </table>
