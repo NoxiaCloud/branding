@@ -10,7 +10,7 @@ Always leave adequate space around Noxia assets. Do not alter, combine, or use t
 
 ## Theme
 
-This theme primarily applies to our websites.
+This theme primarily applies to our websites & assets.
 
 #### Colors
 
