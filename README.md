@@ -42,20 +42,16 @@ This theme primarily applies to our websites.
       <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/stylized.icon.png" width="150">
     </td>
     <td align="center">
+      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/coloured.icon.png">Logo (Coloured)</a><br>
+      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/coloured.icon.png" width="150">
+    </td>
+    <td align="center">
       <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png">Logo (Black)</a><br>
       <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png" width="150">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/small.black.icon.png">Logo (Black | Small)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/small.black.icon.png" width="150">
-    </td>
-    <td align="center">
       <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png">Logo (White)</a><br>
       <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png" width="150">
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/small.white.icon.png">Logo (White | Small)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/small.white.icon.png" width="150">
     </td>
   </tr>
 </table>
