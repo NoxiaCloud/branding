@@ -1,18 +1,14 @@
 # Brand Guidelines
 
-### Naming
+## Naming
 
 **Noxia** — the brand name is only "Noxia". Do not use variations, abbreviations, and always capitalize the "N".
 
----
-
-### Usage
+## Usage
 
 Always leave adequate space around Noxia assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All Noxia assets are protected by trademark and copyright.
 
----
-
-### Theme
+## Theme
 
 This theme primarily applies to our websites.
 
@@ -29,9 +25,7 @@ This theme primarily applies to our websites.
 - **Border / Corner Radius:** 8px
 - **Font Family:** Space Grotesk
 
----
-
-### Assets
+## Assets
 
 #### Icons & Logos
 
