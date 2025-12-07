@@ -16,8 +16,8 @@ This theme primarily applies to our websites & assets.
 
 | Purpose                | HEX       | RGB           |
 | ---------------------- | --------- | ------------- |
-| **Background (Dark)**  | `#0f0f0f` | 15, 15, 15    |
-| **Background (Light)** | `#f3f3f3` | 243, 243, 243 |
+| **Background (Dark)**  | `#141414` | 20, 20, 20    |
+| **Background (Light)** | `#ffffff` | 255, 255, 255 |
 | **Accent**             | `#826cff` | 130, 108, 255 |
 
 #### Attributes
