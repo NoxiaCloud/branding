@@ -59,10 +59,6 @@ This theme primarily applies to our websites & assets.
       <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/discord_server_rules_banner.png" width="400">
     </td>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/contour_map.png">Contour Map</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/contour_map.png" width="400">
-    </td>
-    <td align="center">
       <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/x_profile_banner.png">X Profile Banner</a><br>
       <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/x_profile_banner.png" width="400">
     </td>
