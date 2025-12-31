@@ -23,7 +23,7 @@ This theme primarily applies to our websites & assets.
 #### Attributes
 
 - **Border / Corner Radius:** 8px
-- **Font Family:** Space Grotesk
+- **Font Family:** [Outfit](https://fonts.google.com/specimen/Outfit)
 
 ## Assets
 
